@@ -29,6 +29,9 @@
     
   Make sure to have MySQL and all the associated technologies downloaded. 
   
+  https://user-images.githubusercontent.com/94639814/161617951-2afcbf77-8323-4470-baf5-2fcbf0cf4109.mov
+
+
   Run NPM I
   
   Seed your database
